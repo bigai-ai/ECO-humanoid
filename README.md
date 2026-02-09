@@ -16,15 +16,15 @@
 </p>
 
 <p align="center">
-  <b><a href="https://weidonghuang.com">Weidong Huang</a></b><sup>*</sup> ·
-  Jingwen Zhang<sup>*, †</sup> ·
+  <b><a href="https://weidonghuang.com" target="_blank" rel="noopener noreferrer">Weidong Huang</a></b><sup>*</sup> ·
+  <a href="https://jingwen-zhang-aaron.github.io/" target="_blank" rel="noopener noreferrer">Jingwen Zhang</a><sup>*, †</sup> ·
   Jiongye Li ·
   Shibowen Zhang ·
   Jiayang Wu ·
   Jiayi Wang ·
   Hangxin Liu ·
   Yaodong Yang ·
-  Yao Su<sup>†</sup>
+  <a href="https://yaosu.info/" target="_blank" rel="noopener noreferrer">Yao Su</a><sup>†</sup>
   <br>
   <sup>*</sup>Equal contribution · <sup>†</sup>Corresponding authors
 </p>
