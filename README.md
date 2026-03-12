@@ -238,7 +238,7 @@ If your local package path is `humanoid/` instead of `bruce_gym/`, replace the s
 If you find this work useful, please consider citing:
 
 ```bibtex
-@ARTICLE{eco_humanoid,
+@ARTICLE{ECOhumanoid,
   author={Huang, Weidong and Zhang, Jingwen and Li, Jiongye and Zhang, Shibowen and Wu, Jiayang and Wang, Jiayi and Liu, Hangxin and Yang, Yaodong and Su, Yao},
   journal={IEEE Transactions on Automation Science and Engineering}, 
   title={ECO: Energy-Constrained Optimization With Reinforcement Learning for Humanoid Walking}, 
@@ -248,3 +248,4 @@ If you find this work useful, please consider citing:
   pages={4861-4876},
   keywords={Legged locomotion;Humanoid robots;Energy efficiency;Energy consumption;Tuning;Optimization;Costs;Stability criteria;Reinforcement learning;Automation;Humanoid and bipedal locomotion;constrained reinforcement learning;legged robots},
   doi={10.1109/TASE.2026.3662755}}
+
